@@ -43,3 +43,6 @@ src/speexdec
 src/speexenc
 stamp-*
 patches
+.DS_Store
+project.xcworkspace/
+xcuserdata/
